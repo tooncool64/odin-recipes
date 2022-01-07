@@ -2,7 +2,7 @@
     font-family: 'Arial', 'New Times Roman', sans-serif;
 }
 
-.main {
+.header {
     text-align: center;
 }
 
@@ -17,4 +17,7 @@
 .image {
     width: 600px;
     height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
