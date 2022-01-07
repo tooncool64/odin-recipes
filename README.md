@@ -7,3 +7,5 @@ The project is about building a simple website with an index page linking to oth
 This project is meant to demonstrate basic understanding of HTML concepts such as elements, attributes, tags, and file relationships.
 
 Accesible from https://tooncool64.github.io/odin-recipes/
+
+Updated with a CSS Stylesheet to improve quality.
