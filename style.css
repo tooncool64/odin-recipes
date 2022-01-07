@@ -13,3 +13,8 @@
 .disclaimer {
     color: rgb(216, 65, 65);
 }
+
+.image {
+    width: 600px;
+    height: auto;
+}
