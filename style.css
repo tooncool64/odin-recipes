@@ -1,0 +1,15 @@
+* {
+    font-family: 'Arial', 'New Times Roman', sans-serif;
+}
+
+.main {
+    text-align: center;
+}
+
+.list {
+    text-align:left;
+}
+
+.disclaimer {
+    color: rgb(216, 65, 65);
+}
